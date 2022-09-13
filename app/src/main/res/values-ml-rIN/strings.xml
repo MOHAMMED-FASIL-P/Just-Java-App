@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"ജസ്റ്റ് ജാവ "</string>
+    <string name="toppings">"ടോപ്പിംഗ് "</string>
+    <string name="thanks">"നന്ദി "</string>
+    <string name="your_name">"താങ്കളുടെ പേര് "</string>
+    <string name="order_summary_name">"പേര് : "</string>
+</resources>
